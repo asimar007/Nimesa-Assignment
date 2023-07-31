@@ -63,7 +63,7 @@ Create a py file name **WeatherApp.py**
 
 ### 3. Run Command
 ```
-Python3 WeatherApp.py
+python3 WeatherApp.py
 ```
 ## Output
 ![Alt text](https://github.com/asimar007/Nimesa-Assignment/blob/main/Screenshot/Screenshot%202023-07-31%20at%2010.39.16%20PM.png?raw=true)
